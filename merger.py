@@ -19,14 +19,14 @@ current_user = os.getlogin()
 os.chdir(filepath)
 
 
-# Merger function
+# Merger
 def merge():
     for item in os.listdir(filepath):
         if item.endswith('pdf'):
             merger.append(item)
 
 
-# Save File Function
+# Save File
 def save():
     savepath = filedialog.asksaveasfile(filetypes=files, defaultextension=files, mode='wb')
     merger.write(savepath)
