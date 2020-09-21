@@ -3,7 +3,7 @@ Python PDF merger for windows
 
 I created this script to merge PDF files but I needed to be able to open them from multiple locations on my PC and save the merged file to multiple locations on my PC.
 
-Library Requirements:  
+<b>Library Requirements:  </b>
 os  
 Tkinter  
 filedialog (tkinter)  
