@@ -15,4 +15,7 @@ PdfFileMerger (PyPDF2)
 1. Asks for the directory your PDF are located.
 2. Merges them.
 3. Asks where you'd like to save the merged file.
+  
+  
+You can download the built exe directly from https://digidatamind.com/PDFmerger/PDFmerger.zip
 
