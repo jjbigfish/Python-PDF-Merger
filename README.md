@@ -1,7 +1,7 @@
 # Python-PDF-Merger
 Python PDF merger for windows
 
-I created this script to merge PDF files but I needed to be able to open them from multiple locations on my PC and save the merged file to multiple locations on my PC.
+I created this simple script to merge PDF files with the ability open and save them from/to multiple locations on my PC.
   
   
 <b>Library Requirements:</b>  
