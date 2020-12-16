@@ -17,5 +17,5 @@ PdfFileMerger (PyPDF2)
 3. Asks where you'd like to save the merged file.
   
   
-You can download the program directly from https://digidatamind.com/PDFmerger/PDFmerger.zip
+I created an executable using pyinstaller, you can download the program directly from https://digidatamind.com/PDFmerger/PDFmerger.zip
 
